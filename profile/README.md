@@ -119,7 +119,7 @@
 > AWS Cloud 환경 위에 Terraform을 사용하여 인프라를 프로비저닝하였으며, **kOps**를 통해 Self-managed Kubernetes 클러스터를 구축했습니다.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/이미지_경로_여기에_입력" width="100%" alt="Infrastructure Architecture" />
+  <img src="https://github.com/user-attachments/assets/46457646-89cf-41f2-a084-71348ef53ecd" width="100%" alt="Infrastructure Architecture" />
 </div>
 <br>
 
@@ -140,7 +140,7 @@
 사용자가 코드를 제출하면 다음과 같은 파이프라인을 거쳐 배포됩니다:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/이미지_경로_여기에_입력" width="80%" alt="Function Creation Flow" />
+  <img src="https://github.com/user-attachments/assets/72a4176e-3968-4b52-a0ae-a7186736d175" width="80%" alt="Function Creation Flow" />
 </div>
 
 1.  **Code Validation:** `mypy` 등을 이용해 코드 문법 및 타입을 검증합니다.
@@ -153,7 +153,7 @@
 WASM 런타임을 통해 즉시 함수가 실행되는 과정입니다:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/이미지_경로_여기에_입력" width="40%" alt="Function Execution Flow" />
+  <img src="https://github.com/user-attachments/assets/77d02de9-c359-44f5-80fa-3633db9531b7" width="40%" alt="Function Execution Flow" />
 </div>
 
 1.  **Request:** 클라이언트가 HTTP 요청을 통해 함수를 호출합니다.
