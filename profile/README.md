@@ -12,8 +12,6 @@
 
 ---
 
-</br></br>
-
 ## 팀 구성원
 
 <table align="center" style="table-layout: fixed; width: 100%;">
@@ -32,6 +30,8 @@
     <td><a href="https://github.com/LeeJaeJun-A"><b>Jaejun Lee</b></a><br><sub>Role04</sub></td>
   </tr>
 </table>
+
+</br></br>
 
 ---
 
@@ -86,6 +86,8 @@
   </tr>
 </table>
 
+</br></br>
+
 ---
 
 ## 🚀 Project Overview
@@ -130,7 +132,7 @@
     - **CloudFront:** 정적 리소스에 대한 캐싱을 통해 트래픽 비용을 최적화했습니다.
 - **Scalability:** WASM Build 노드와 Function 실행 노드를 분리하여 API 병목을 제거하고, Function 노드만 독립적으로 오토 스케일링 되도록 설계했습니다.
 
-<br>
+</br>
 
 ---
 
@@ -160,7 +162,7 @@ WASM 런타임을 통해 즉시 함수가 실행되는 과정입니다:
 2.  **SpinKube Execution:** Kubernetes 상의 **SpinKube**가 OCI 레지스트리에서 WASM 모듈을 페치(Fetch)합니다.
 3.  **Instant Run:** 별도의 컨테이너 부팅 없이, 샌드박스 환경에서 함수가 즉시 실행되고 결과가 반환됩니다.
 
-<br>
+</br>
 
 ---
 
