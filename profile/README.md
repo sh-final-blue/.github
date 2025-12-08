@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⛅ SOFTBANK HACKATHON 2025 FINAL ⛅
+# SOFTBANK HACKATHON 2025 FINAL
 
 > <h3>🎯 THEME</h3>
 > <h3>"Run Your Functions Instantly over HTTP"</h3>
 > EC2/Compute Engine 위에서 구현하는 차세대 Serverless 플랫폼
 
-<img src="https://github.com/user-attachments/assets/6972702a-2c00-4905-bce0-f5bf6aa0b000" width="80%">
+<img src="https://github.com/user-attachments/assets/8e0aef75-7f7f-4a87-995f-57fb19f9719a" width="80%">
 
 </div>
 
