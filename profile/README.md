@@ -88,9 +88,8 @@
 
 ---
 
-### 🚀 Project Overview
+## 🚀 Project Overview
 > **AWS Lambda보다 빠르고 Docker보다 안전한, 차세대 WASM 기반 서버리스 플랫폼**   
-> 기존 VM/Container 기반 FaaS가 가진 **Cold Start 지연**과 **보안 취약점(Container Escape)** 문제를 해결하기 위해, Kubernetes와 WebAssembly(SpinKube)를 결합한 자체 인프라를 구축
 
 - **프로젝트 기간:** 2025.11.28 - 2025.12.07
-- **프로젝트 목표:** 기존 VM/Container 기반 FaaS의 Cold Start 지연과 보안 취약점(Container Escape) 해결
+- **프로젝트 목표:** 기존 VM/Container 기반 FaaS가 가진 **Cold Start 지연**과 **보안 취약점(Container Escape)** 문제를 해결하기 위해, Kubernetes와 WebAssembly(SpinKube)를 결합한 자체 인프라를 구축
