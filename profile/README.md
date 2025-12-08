@@ -6,7 +6,7 @@
 > <h3>"Run Your Functions Instantly over HTTP"</h3>
 > EC2/Compute Engine 위에서 구현하는 차세대 Serverless 플랫폼
 
-<img src="https://github.com/user-attachments/assets/6972702a-2c00-4905-bce0-f5bf6aa0b000" width="100%">
+<img src="https://github.com/user-attachments/assets/6972702a-2c00-4905-bce0-f5bf6aa0b000" width="80%">
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
+<table align="center" style="table-layout: fixed; width="100%">
   <tr>
     <td width="150" align="center"><b>Infrastructure</b></td>
     <td>
@@ -100,6 +100,10 @@
 
 ## ✨ Key Features
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/69205483-75cd-4f33-9458-10bc449c2c43" width="60%" alt="Infrastructure Architecture" />
+</div>
+
 ### 1. Zero Cold Start & Millisecond Execution
 - **Problem:** 기존 VM/Container 기반 FaaS는 게스트 OS 부팅 및 라이브러리 로딩으로 인해 무겁고 느린 콜드 스타트(Cold Start) 문제가 발생합니다.
 - **Solution:** **WebAssembly(WASM)** 기술을 도입하여 컨테이너 레이어를 제거했습니다. 무거운 가상머신 부팅 단계를 물리적으로 생략하고 단순 메모리 할당만으로 코드를 즉시 구동하여, **Docker Container 대비 10~100배 빠른 기동 시간**을 달성했습니다.
@@ -110,6 +114,10 @@
 
 ### 3. Native-Grade Performance
 - 인터프리터 언어와 달리, WASM은 기계어에 가까운 바이너리 포맷을 사용하여 네이티브 코드 급의 처리 속도를 제공합니다. 특히 ARM 아키텍처와의 최적화를 통해 고성능 처리가 가능합니다.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eb8a45cb-b44a-439b-b14e-e01aacfbbd04" width="60%" alt="Infrastructure Architecture" />
+</div>
 
 <br>
 
@@ -155,7 +163,7 @@
 WASM 런타임을 통해 즉시 함수가 실행되는 과정입니다:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/77d02de9-c359-44f5-80fa-3633db9531b7" width="40%" alt="Function Execution Flow" />
+  <img src="https://github.com/user-attachments/assets/77d02de9-c359-44f5-80fa-3633db9531b7" width="80%" alt="Function Execution Flow" />
 </div>
 
 1.  **Request:** 클라이언트가 HTTP 요청을 통해 함수를 호출합니다.
