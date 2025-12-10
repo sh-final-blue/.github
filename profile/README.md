@@ -23,11 +23,11 @@
     <td><img width="150" alt="최우수상-이재준" src="https://avatars.githubusercontent.com/u/67398119?v=4" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ONE0x393"><b>Howon Jeong</b></a><br><sub>Role00</sub></td>
-    <td><a href="https://github.com/sungwoocse"><b>Sungwoo Choi</b></a><br><sub>Role01</sub></td>
-    <td><a href="https://github.com/galaxyhm"><b>Hyeonmin Cho</b></a><br><sub>Role02</sub></td>
-    <td><a href="https://github.com/Joyeongbinnn"><b>Yeongbin Jo</b></a><br><sub>Role03</sub></td>
-    <td><a href="https://github.com/LeeJaeJun-A"><b>Jaejun Lee</b></a><br><sub>Role04</sub></td>
+    <td><a href="https://github.com/ONE0x393"><b>Howon Jeong</b></a><br><sub>DevOps</sub></td>
+    <td><a href="https://github.com/sungwoocse"><b>Sungwoo Choi</b></a><br><sub>Fullstack</sub></td>
+    <td><a href="https://github.com/galaxyhm"><b>Hyeonmin Cho</b></a><br><sub>Infra</sub></td>
+    <td><a href="https://github.com/Joyeongbinnn"><b>Yeongbin Jo</b></a><br><sub>Infra</sub></td>
+    <td><a href="https://github.com/LeeJaeJun-A"><b>Jaejun Lee</b></a><br><sub>Monitoring</sub></td>
   </tr>
 </table>
 
